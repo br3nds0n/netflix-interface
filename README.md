@@ -1,8 +1,8 @@
 ## ⚙Netflix 
 
-<h4 align="center"> 
-	🚧  🚀 Em construção...  🚧
-</h4>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/696749484012601344/899296326368509982/netflixgif.gif?width=511&height=473">
+</P>
 
 ## 📘 Sobre
 
@@ -13,6 +13,7 @@ Clone da interface Netflix.
 * JavaScript
 * HTML5
 * CSS3
+* JQuery
 
 ## 💻 Baixar e executar o projeto
 
