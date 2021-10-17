@@ -6,7 +6,7 @@
 
 ## 📘 Sobre
 
-Clone da interface da Netflix.
+Clone da interface Netflix.
 
 ## 🔧 Tecnologias utilizadas
 
