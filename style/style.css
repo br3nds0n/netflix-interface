@@ -25,10 +25,11 @@ header .container{
 }
 
 header .logo{
-    margin: 5px;
-    color: var(--vermelho);
-    font-family: 'Arial Black', Times;
-    font-size: 40px;
+
+    display: flex;
+    width: 40px;
+    height: 20vh;
+ 
 }
 
 header nav a{
@@ -54,6 +55,7 @@ header nav a:hover{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    
 }
 
 .filme-principal .descricao{
