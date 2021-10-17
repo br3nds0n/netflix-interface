@@ -13,7 +13,7 @@
 
 body{
     background: var(--preta);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
 
@@ -22,13 +22,14 @@ header .container{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    height: 60px;
 }
 
 header .logo{
 
     display: flex;
-    width: 40px;
-    height: 20vh;
+    width: 3em;
+    height: 5em;
  
 }
 
@@ -46,7 +47,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 15px;
-    background: linear-gradient(rgba(0,0,0,.60),rgba(0,0,0,.60)100%), url("/img/capa.jpg");
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 32%, rgba(227,227,227,0) 100%),url("/img/capa.jpg");
 
     height: 400px;
     background-size: cover;
@@ -65,7 +66,7 @@ header nav a:hover{
 
 .filme-principal .titulo{
     margin-top: 15%;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -99,3 +100,6 @@ header nav a:hover{
     width: 70%;
 }
 
+.carrosel-filmes{
+    margin-top: 5px;
+}

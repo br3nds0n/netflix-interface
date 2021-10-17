@@ -1,0 +1,22 @@
+@media screen and (max-width:700px) {
+  
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+       
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .descricao{
+        width: 50%;
+    }
+    
+}
+
+@media screen and (max-width:800px) {
+    .descricao{
+        width: 50%;
+    }
+    
+}
