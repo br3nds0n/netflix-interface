@@ -1,4 +1,4 @@
-## 🖥Netflix 
+## 🖥 Netflix 
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/696749484012601344/899295886180491264/netflixgif.gif?width=511&height=473">
